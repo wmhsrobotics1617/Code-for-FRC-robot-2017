@@ -1,7 +1,7 @@
 /**
  * This code is the code made for the 2017 FRIST FRC. This team is 6423. 
  * Authors: Rohan Rajagopalan, Eddie Yan, Chukwudumebi Joshua Obi
- * 
+ * Please open this in eclipse and make sure you have java installed. 
  */
 
 
